@@ -8,6 +8,6 @@
 
 ## [Part Two](/part2/)
 
-- Part one is a full CRUD API
+- Part two is a full CRUD API
 - Please do npm init, seed your database and follow directions
 - Make sure to seperate the solutions of Part One and Part Two in seperate folders
